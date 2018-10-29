@@ -1,1 +1,1 @@
-webpack.config.alias.js
+webpack.config.splitChunks.js
